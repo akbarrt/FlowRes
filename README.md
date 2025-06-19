@@ -10,6 +10,16 @@
 
 We're currently planting the seeds for Flowres 🌼  
 The first sprout is on its way — stay tuned for progress updates, sneak peeks, and dev logs.
+Lagi disusun pelan-pelan. Repo ini baru awal, belum banyak file.
+
+---
+
+## ✅ Todo (sementara / early plan)
+
+- [ ] Bikin layout dasar UI / basic layout setup
+- [ ] Komponen timer / Timer component
+- [ ] Mood form setelah sesi / Mood form after each session
+- [ ] Simpan & tampilkan progress / Save & display progress
 
 ---
 
@@ -35,11 +45,11 @@ Flowres is more than just a Pomodoro timer. It's a mindful study companion that:
 
 ## 📌 Features We’re Building
 
-- ⏱️ Pomodoro Timer with flower animation  
+- ⏱️ Pomodoro Timer with flower animation
 - 🌸 Dynamic garden that grows as you stay productive  
-- 📊 Mood tracker after each session  
-- 📈 Weekly stats & visual reflections  
-- 🔔 Custom reminders  
+- 📊 Mood tracker after each session 
+- 📈 Weekly stats & visual reflections 
+- 🔔 Custom reminders
 - 🧘 Mindfulness mode (optional white noise / music)
 
 ---
@@ -56,8 +66,8 @@ We'll be sharing:
 
 ## 🤝 Contributing
 
-We’re still working on the garden layout 🌷  
-If you’re a designer, frontend dev, or someone who loves the idea — we’d love to collaborate once we hit first prototype stage. Stay tuned.
+Currently personal project.  
+But if you’re interested in contributing or have cool ideas, feel free to reach out once MVP is live.
 
 ---
 
